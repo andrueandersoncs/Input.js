@@ -2,7 +2,6 @@
 Mouse and Keyboard library for JavaScript
 
 This is a JavaScript library for Mouse and Keyboard queries.
-Written by Andrue Anderson - andrue.anderson.cs@gmail.com
 
 Usage: 
 
